@@ -48,3 +48,5 @@ namespace TestInheritanceConsoleApp1
 
 }
 // This file is clone from rqmesh111291 repo anf pufpufe of fhis file is just checking cmnt 3
+
+// inherit class clone test folder
